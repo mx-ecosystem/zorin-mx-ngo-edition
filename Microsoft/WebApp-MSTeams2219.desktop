@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=MS Teams
+Comment=Aplikacja internetowa
+Exec=brave-browser --app="https://teams.microsoft.com/v2/" --class=WebApp-MSTeams2219 --name=WebApp-MSTeams2219 --user-data-dir=/home/uzytkownik/.local/share/ice/profiles/MSTeams2219
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/uzytkownik/.local/share/ice/icons/MSTeams.png
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-MSTeams2219
+StartupNotify=true
+X-WebApp-Browser=Brave Browser
+X-WebApp-URL=https://teams.microsoft.com/v2/
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true

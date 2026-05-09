@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=OneDrive
+Comment=Aplikacja internetowa
+Exec=brave-browser --app="https://onedrive.live.com" --class=WebApp-OneDrive3317 --name=WebApp-OneDrive3317 --user-data-dir=/home/uzytkownik/.local/share/ice/profiles/OneDrive3317
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/uzytkownik/.local/share/ice/icons/OneDrive.png
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-OneDrive3317
+StartupNotify=true
+X-WebApp-Browser=Brave Browser
+X-WebApp-URL=https://onedrive.live.com
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true

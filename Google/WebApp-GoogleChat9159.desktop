@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=Google Chat
+Comment=Aplikacja internetowa
+Exec=brave-browser --app="https://mail.google.com/chat/" --class=WebApp-GoogleChat9159 --name=WebApp-GoogleChat9159 --user-data-dir=/home/uzytkownik/.local/share/ice/profiles/GoogleChat9159
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/uzytkownik/.Magazyn/Images/google chat.png
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-GoogleChat9159
+StartupNotify=true
+X-WebApp-Browser=Brave Browser
+X-WebApp-URL=https://mail.google.com/chat/
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true

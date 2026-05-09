@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=Asystent AI
+Comment=Aplikacja internetowa
+Exec=brave-browser --app="https://duck.ai/" --class=WebApp-AsystentAI5833 --name=WebApp-AsystentAI5833 --user-data-dir=/home/uzytkownik/.local/share/ice/profiles/AsystentAI5833
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/uzytkownik/.Magazyn/Images/ai-assistant.png
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-AsystentAI5833
+StartupNotify=true
+X-WebApp-Browser=Brave Browser
+X-WebApp-URL=https://duck.ai/
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true

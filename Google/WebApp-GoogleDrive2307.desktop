@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=Google Drive
+Comment=Aplikacja internetowa
+Exec=brave-browser --app="https://drive.google.com" --class=WebApp-GoogleDrive2307 --name=WebApp-GoogleDrive2307 --user-data-dir=/home/uzytkownik/.local/share/ice/profiles/GoogleDrive2307
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=web-google-drive
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-GoogleDrive2307
+StartupNotify=true
+X-WebApp-Browser=Brave Browser
+X-WebApp-URL=https://drive.google.com
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true

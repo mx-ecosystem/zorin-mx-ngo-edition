@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=Office 365
+Comment=Aplikacja internetowa
+Exec=brave-browser --app="https://www.office.com" --class=WebApp-Office7789 --name=WebApp-Office7789 --user-data-dir=/home/uzytkownik/.local/share/ice/profiles/Office7789
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/uzytkownik/.local/share/ice/icons/Office.png
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Office7789
+StartupNotify=true
+X-WebApp-Browser=Brave Browser
+X-WebApp-URL=https://www.office.com
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true
